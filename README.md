@@ -2,7 +2,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![JS](https://img.shields.io/badge/JavaScript%20(ES6%2B)-Modern-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
 A simple web app to track daily "coin" spending, with a running total and monthly average.  
 Built using plain HTML, CSS, and JavaScript — no backend required. Data is saved locally in your browser.
